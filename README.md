@@ -9,7 +9,8 @@ This repo a custom configuration of Suckless Terminal with the patches applied a
 | scrollback | for backwards scroll support|
 | colorschemes | switch among 8 color schemes |
 | boxdraw | adds options to render most of the lines/blocks characters and/or the the braille ones without using the font |
-| ligatures (boxdraw) | adds options to render most of the lines/blocks characters and/or the the braille ones without using the font |
+| ligatures | adds options to render most of the lines/blocks characters and/or the the braille ones without using the font |
+| anysize | allows st to resize to any pixel size, makes the inner border size dynamic, and centers the content of the terminal. st will always fill the entire space allocated on a tiling WM. |
 
 ## Dependencies
 
